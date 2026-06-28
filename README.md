@@ -76,6 +76,6 @@ This HR Analytics Dashboard provides insights into employee attrition, workforce
 ---
 
 ## Contact
-If you'd like to discuss Data Analytics or Business Intelligence opportunities, feel free to connect with me through my GitHub profile.
+
 
 If you'd like to discuss Data Analytics or Business Intelligence opportunities, feel free to connect with me through my GitHub profile.
